@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Asmodeus-TheDevil/Asmodeus-TheDevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://giffiles.alphacoders.com/174/1744.gif" width="100%" height="300" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Asmodeus -TheDevil! 👋
+
+
+## 🚀 About Me
+🖥️ I'm an Ethical Hacker...
+
+
+👩‍💻 I'm currently working on.
+
+🧠 I'm currently learning Python.
+
+💬 Ask me about Bash Script and Shell Script.
+
+## 🛠 Skills
+Shell Script, Python, Bash Script
+
+<img src="https://i.pinimg.com/originals/4a/93/5b/4a935bf1213487e6a403dc6210791df0.gif">
